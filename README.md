@@ -1,4 +1,4 @@
-#what2watch
+# what2watch
 [https://tv-show-advicer.vercel.app/](https://tv-show-advicer.vercel.app/)
 
 This is a what2watch application where we can search for any movie or tv show.
