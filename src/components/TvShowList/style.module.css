@@ -1,0 +1,17 @@
+.title{
+    font-family: Roboto;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.list{
+    display: flex;
+    width: 100vw - 25px;
+    overflow-x: scroll;
+    scroll-behavior: smooth;
+    scroll-snap-align: start;
+}
+
+.tv_show_items{
+    margin-right: 20px;
+}
